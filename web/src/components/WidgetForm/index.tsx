@@ -61,7 +61,7 @@ export function WidgetForm(){
                 </>
             )}
             <footer className="text-xs text-neutral-400">
-                Feito com ❣️ pela <a className="underline underline-offset-1" href="https://github.com/RobertoNicolau/web">Tonha net fibra otica</a>
+                Feito por <a className="underline underline-offset-1" href="https://github.com/RobertoNicolau/web">Roberto Nicolau 🧑‍💻 </a>
             </footer>
         </div>
     )
