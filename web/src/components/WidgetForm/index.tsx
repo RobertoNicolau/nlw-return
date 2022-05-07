@@ -61,7 +61,7 @@ export function WidgetForm(){
                 </>
             )}
             <footer className="text-xs text-neutral-400">
-                Feito por <a className="underline underline-offset-1" href="https://github.com/RobertoNicolau/web">Roberto Nicolau 🧑‍💻 </a>
+                Feito por <a className="underline underline-offset-1" href="https://github.com/RobertoNicolau/nlw-return">Roberto Nicolau 🧑‍💻 </a>
             </footer>
         </div>
     )
